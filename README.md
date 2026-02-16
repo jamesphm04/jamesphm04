@@ -55,4 +55,6 @@ AI-powered platform that lets you **ask questions directly to your files**.
 ---
 
 ## ⚡ Fun GitHub Stats
-![Ky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesphm04&show_icons=true&theme=radical)
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesphm04&show_icons=true&theme=radical)
+
