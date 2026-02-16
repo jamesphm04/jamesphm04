@@ -46,7 +46,7 @@ AI-powered platform that lets you **ask questions directly to your files**.
 
 ## 📫 Contact Me
 - LinkedIn: [Ky Cuong Pham](https://www.linkedin.com/in/ky-cuong-pham-8a5bb3277/)
-- Website: [my-website.com]([your-website.com](https://kycuongpham.notion.site/254424f721b78068bffbf5df6e3f6376?v=254424f721b7812ea274000c4387b636))
+- Website: [my-website.com](https://kycuongpham.notion.site/254424f721b78068bffbf5df6e3f6376?v=254424f721b7812ea274000c4387b636)
 - Email: [jamesphm449@gmail.com](mailto:jamesphm449@gmail.com)
 
 ---
