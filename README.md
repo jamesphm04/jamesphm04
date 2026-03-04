@@ -1,6 +1,6 @@
 # Hi, I'm Ky Cuong Pham 👋
 
-**AI & Full-Stack Developer | LLM & Cloud Enthusiast | Open-Source Contributor**
+**Software Engineer**
 
 🚀 Building AI-powered automation and full-stack applications that scale in the real world.
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 
-**Programming & Frameworks:** Python | TypeScript | .NET | Next.js | React | Spring Boot | Flask | FastAPI | Redis | Celery | AsyncIO  
+**Programming & Frameworks:** Python | TypeScript | Golang | Next.js | React | Spring Boot | Flask | FastAPI | Redis | Celery | AsyncIO  
 **AI / ML:** PyTorch | LangChain | RAG Pipelines | NLP | OCR | Computer Vision  
 **Cloud & DevOps:** AWS (EC2, RDS, Lambda, SageMaker, ECR) | Docker | Linux  
 **Databases:** PostgreSQL | SQL Server | PGVector | ChromaDB | SQLite  
